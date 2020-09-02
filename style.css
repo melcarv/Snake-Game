@@ -1,0 +1,18 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+}
+
+.tittle {
+    text-shadow: 1px 0px 0px #050b43, 
+    -1px 0px 0px #050b43, 
+    0px 4px 0px #050b43, 
+    0px -1px 0px #050b43;
+    font-size: 45px; 
+}
